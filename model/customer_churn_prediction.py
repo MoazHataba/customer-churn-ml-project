@@ -272,11 +272,4 @@ print("Model saved successfully")
     *   Model training and evaluation.
     *   Visualization charts.
     *   Saved prediction model.
-
-# **12) Final Output**
-*   Logistic Regression Accuracy: 0.80
-*   Decision Tree Accuracy: 0.78
-*   Random Forest Accuracy: 0.85
-*   SVM Accuracy: 0.82
-*   XGBoost Accuracy: 0.87
 """
